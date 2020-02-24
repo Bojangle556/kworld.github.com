@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+		body {
+			background-color: royalblue;
+		}
+			hr {
+			border-color: gray;
+			border-style: none;
+			border-top-style: dotted;
+			border-width: 5px;
+			weight: 5px;
+		}
+h1{
+	color: orange;
+}
+h2{
+	color: goldenrod;
+
+}
